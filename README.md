@@ -87,7 +87,13 @@ Notes & Tips
 - Grammars should be close to CNF for CYK: binary non-terminal productions or single terminal productions.
 - For natural language examples, use quoted terminals to represent words.
 - If a valid sentence is rejected, verify that rules are truly CNF-compatible and tokens match your terminals.
-
+  
+Contributers
+------------
+Shashikant Kumar
+Saloni Kumari
+Divyanshi Singh
+Ketan
 
 License
 -------
